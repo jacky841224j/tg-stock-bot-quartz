@@ -1,0 +1,9 @@
+.vs
+playwright/.auth
+TestProject1
+.vscode
+BotTestTelegram.csproj.user
+app.yaml
+bin
+obj
+gcloud_Telegram_Bot.csproj.user
